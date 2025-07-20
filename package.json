@@ -1,0 +1,22 @@
+{
+  "name": "site-digital-solutions",
+  "version": "1.0.0",
+  "description": "Site web de Site Digital Solutions",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "build": "echo \"Site statique, pas de build nécessaire\""
+  },
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  },
+  "keywords": [
+    "website",
+    "static",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
